@@ -117,6 +117,9 @@ Ejemplo:
 - Flags: `es_` / `tiene_`.
 - Constraints: `pk_`, `fk_`, `uk_`, `ck_`.
 
-""" Integrantes
+
+
+
+### Integrantes
 - Thomas Bedoya Rendon
 - Juan Esteban
