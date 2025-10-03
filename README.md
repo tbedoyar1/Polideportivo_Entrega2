@@ -122,4 +122,4 @@ Ejemplo:
 
 ### Integrantes
 - Thomas Bedoya Rendon
-- Juan Esteban
+- Juan Esteban Jiménez Cardona
